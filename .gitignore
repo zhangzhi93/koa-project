@@ -1,0 +1,11 @@
+.DS_STORE
+*.log
+*.log.*
+
+node_modules
+logs
+dist
+tmp
+lib
+coverage
+dist.tar.gz

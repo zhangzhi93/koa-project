@@ -1,5 +1,4 @@
-// const fs = require('fs');
-import fs from 'fs';
+const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
 const config = require('../config')
